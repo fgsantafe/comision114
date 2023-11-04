@@ -87,7 +87,7 @@ public class StreamApp {
 
     f1 = new Factura();
     f1.setId(6);
-    f1.setConcepto("Desodorante dobe mujer");
+    f1.setConcepto("Desodorante dove mujer");
     f1.setMonto(3300.00d);
     f1.setTipoCompra(TipoCompra.ALMACEN);
     f1.setCliente(new Cliente());
